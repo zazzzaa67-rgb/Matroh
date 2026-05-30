@@ -12,28 +12,32 @@ h3 {
 }
 
 h1 {
-    color: whitesmoke;
+    color: #252525;
     font-size: 1.75rem;
 }
 
 h2 {
-    color: #451c7a;
+    color:rgb(9, 161, 221);
     font-size: 1.375rem;
     margin-top: 0;
 }
 
 h3 {
     font-size: 1.25rem;
+    color: rgb(9, 161, 221);
+
 }
 
 p {
     line-height: 1.5;
+    color: #252525;
 }
 
 .subheading {
     display: block;
     font-size: 1rem;
-    color: #d0aaff;
+    color: #252525 ;
+    text-shadow: -1px -1px 20px  blue;
 }
 
 .section-two h2 {
@@ -43,7 +47,7 @@ p {
 /* ----- LINKS ----- */
 
 a {
-    color: #ef5839;
+    color: rgb(120, 106, 213);
     text-decoration: underline dotted; 
 }
 
@@ -65,16 +69,16 @@ a:active {
 
 .btn-dark {
     color: whitesmoke;
-    background: #5f29a3;
+    background: #075ad7;
 }
 
 .btn-mid {
-    color: #5f29a3; 
-    background: #f0e0ff; 
+    color: #252525; 
+    background: #05a0ee; 
 }
 
 .btn-light {
-    color: #5f29a3; 
+    color:#05a0ee ; 
     background: whitesmoke;
 }
 
@@ -94,7 +98,7 @@ footer {
 
 header, 
 .section-two {
-    background-color: #5f29a3;
+    background-color:rgb(20, 226, 219) ;
 }
 
 .section-two {
